@@ -3,8 +3,6 @@
 
 ## Проекты на Яндекс.Практикум
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
 | Название             |Описание                          |Библиотеки                         |
 |----------------|-------------------------------|-----------------------------|
 |[Анализ рынка компьютерных игр](https://github.com/nvoin86/yandex-praktikum-projects/tree/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B3%D1%80)|Нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании. Данные до 2016 года. Планируется кампания на 2017-й. Нужно отработать принцип работы с данным.|`pandas`, `seaborn`, `numpy`, `matplotlib`, `scipy`, `math`|
